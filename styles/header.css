@@ -202,3 +202,11 @@
 .notifications-icon-container:hover .tooltip {
   opacity: 1;
 }
+
+.github {
+  position: center;
+  font-size: 12px;
+  padding-left: 8px;
+  padding-right: 8px;
+    display: flex;
+}
